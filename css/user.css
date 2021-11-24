@@ -1,0 +1,42 @@
+.author-discrip {
+  display: table-cell;
+  vertical-align: top;
+  padding-left: 15px;
+  padding-right: 15px;
+  line-height: 1;
+  align-content: center;
+}
+.author-discrip h3 {
+  margin: 0px;
+  font-size: 1.8rem;
+  text-align: center;
+}
+.author-discrip .author-bio {
+  font-size: 1.2rem;
+  margin: 0.3rem 0;
+  text-align: center;
+}
+.author-links {
+  display: table-cell;
+  position: relative;
+  vertical-align: top;
+  z-index: 10;
+  cursor: pointer;
+}
+.author-links li {
+  white-space: nowrap;
+  margin-bottom: 0.5em;
+  margin-left: 1.5em;
+}
+.author-links a {
+  margin-bottom: 5px;
+  padding-right: 5px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  color: inherit;
+  font-size: 1.4rem;
+  text-decoration: none;
+}
+.author-links button {
+  margin-bottom: 0px;
+}
