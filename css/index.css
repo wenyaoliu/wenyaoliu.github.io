@@ -26,7 +26,7 @@
 .author-links li {
   white-space: nowrap;
   margin-bottom: 0.5em;
-  margin-left: 1.5em;
+  margin-left: 1.5rem;
 }
 .author-links a {
   margin-bottom: 5px;
@@ -329,7 +329,7 @@ blockquote p {
 }
 #blog_name a {
   display: block;
-  margin: 0 1.6rem;
+  margin: 0 2.5rem;
   padding: 0.8rem 0;
   color: #7a8288;
   font-weight: 600;
@@ -731,7 +731,7 @@ blockquote p {
   display: inline-block;
   position: relative;
   font-size: 1.4rem;
-  margin-left: 5.5rem;
+  margin-left: 9.8rem;
 }
 .cv-links i {
   text-decoration: underline;
@@ -816,8 +816,7 @@ blockquote p {
     padding: 0;
   }
   .cv-links {
-    margin: 0;
-    margin-left: 2rem;
+    margin: 1.5rem;
   }
 }
 #page_footer {
