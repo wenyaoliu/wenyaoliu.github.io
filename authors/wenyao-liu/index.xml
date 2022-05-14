@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wenyao Liu on Future Leo&#39;s Blog</title>
+    <link>/authors/wenyao-liu/</link>
+    <description>Recent content in Wenyao Liu on Future Leo&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2022 &lt;a href=&#34;https://www.wenyaoliu.com&#34;&gt;Wenyao Liu&lt;/a&gt; 
+</copyright>
+    <lastBuildDate>Fri, 13 May 2022 13:11:22 +0800</lastBuildDate><atom:link href="/authors/wenyao-liu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Journal Papers</title>
+      <link>/publications/journal-papers/</link>
+      <pubDate>Fri, 13 May 2022 13:11:22 +0800</pubDate>
+      
+      <guid>/publications/journal-papers/</guid>
+      <description>As key contributor  Li, J. Q.*, W. Liu, X. Yang, P. Lu, and K. C. P. Wang. 2022. “Statistical Safety Performance Models considering Pavement and Roadway Characteristics.” Journal of Advanced Transportation, 2022: e5871601. Hindawi. https://doi.org/10.1155/2022/5871601. Liu, W., J. Q. Li*, X. Yang, K. Wang, and W. Yu. 2022. “Integrating Skid Resistance and Safety Benefits into Life Cycle Cost Analysis for Pavement Surface Treatment Selection.” Journal of Transportation Engineering, Part B: Pavements, 148 (2): 04022015. American Society of Civil Engineers.</description>
+    </item>
+    
+    <item>
+      <title>Project Reports and Proposals</title>
+      <link>/publications/journal-papers-copy/</link>
+      <pubDate>Wed, 13 Apr 2022 13:11:22 +0800</pubDate>
+      
+      <guid>/publications/journal-papers-copy/</guid>
+      <description>Reports  Joshua Q. Li, Kelvin C. P. Wang, Wenyao Liu, and Wenying Yu. 2021. “Utilizing Pavement Friction and Texture Data for the Reduction of Traffic Crashes and Delays.” Final Report FHWA-OK-21-01 (SP&amp;amp;R 2309). Oklahoma Department of Transportation (ODOT), Oklahoma City, OK. Joshua Q. Li, Kelvin C. P. Wang, Wenying Yu, Wenyao Liu. 2020. “Continuous Friction Measurement Equipment (CFME) for Highway Safety Management in Oklahoma.” Final Report FHWA-OK-20-02 (SP&amp;amp;R 2306). Oklahoma Department of Transportation (ODOT), Oklahoma City, OK.</description>
+    </item>
+    
+    <item>
+      <title>Patent</title>
+      <link>/publications/patents/</link>
+      <pubDate>Sat, 03 Apr 2021 13:11:22 +0800</pubDate>
+      
+      <guid>/publications/patents/</guid>
+      <description>  Wenyao Liu (2018). Bike Saddle Capable of Being Turned Over for Replacement. China Invention Patent.
+  Wenyao Liu (2016). A Moving-object Article Management System. China Unity Model Patent.
+  </description>
+    </item>
+    
+    <item>
+      <title>Peridynamics-based simulation of asphalt mixture cracking in semi-circular bending (SCB) test</title>
+      <link>/projects/peridynamics-simulation-scb-copy-copy/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/peridynamics-simulation-scb-copy-copy/</guid>
+      <description>&lt;p&gt;In this project, peridynamics, a new fracture mechanics methodology that extends classical continuum mechanics to discontinuous material responses, is implemented to simulate crack propagation during the SCB testing process.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Peridynamics-based simulation of asphalt mixture cracking in semi-circular bending (SCB) test</title>
+      <link>/projects/peridynamics-simulation-scb-copy/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/peridynamics-simulation-scb-copy/</guid>
+      <description>&lt;p&gt;In this project, peridynamics, a new fracture mechanics methodology that extends classical continuum mechanics to discontinuous material responses, is implemented to simulate crack propagation during the SCB testing process.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Peridynamics-based simulation of asphalt mixture cracking in semi-circular bending (SCB) test</title>
+      <link>/projects/peridynamics-simulation-scb/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/peridynamics-simulation-scb/</guid>
+      <description>&lt;p&gt;In this project, peridynamics, a new fracture mechanics methodology that extends classical continuum mechanics to discontinuous material responses, is implemented to simulate crack propagation during the SCB testing process.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

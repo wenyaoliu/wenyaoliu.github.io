@@ -1,0 +1,1135 @@
+<!DOCTYPE html>
+<html
+  lang="en"
+  dir="ltr"
+  
+><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<title>Future Leo&#39;s Blog</title>
+
+<meta name="generator" content="Hugo Eureka 0.9.1" />
+<link rel="stylesheet" href="/css/eureka.min.9cec6350e37e534b0338fa9a085bf06855de3b0f2dcf857e792e5e97b07ea905d4d5513db554cbc26a9c3da622bae92d.css">
+<script defer src="/js/eureka.min.4ab4e11bfa71ae0aeed55e31bbb0f8ab16c24a648722270637c4b96ea70eef4ddf17aa3e2a8131f613520e0387c1bbde.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload"
+  href="https://fonts.googleapis.com/css2?family=Lora:wght@400;600;700&amp;family=Noto&#43;Serif&#43;SC:wght@400;600;700&amp;display=swap"
+  as="style" onload="this.onload=null;this.rel='stylesheet'">
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.4.0/build/styles/base16/solarized-light.min.css"
+   media="print"
+  onload="this.media='all';this.onload=null" crossorigin>
+<script defer src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.4.0/build/highlight.min.js"
+   crossorigin></script>
+  <script defer src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.4.0/build/languages/dart.min.js"
+     crossorigin></script>
+<link rel="stylesheet" href="/css/highlightjs.min.2958991528e43eb6fc9b8c4f2b8e052f79c4010718e1d1e888a777620e9ee63021c2c57ec7417a3108019bb8c41943e6.css" media="print" onload="this.media='all';this.onload=null">
+
+
+<script defer type="text/javascript" src="/js/fontawesome.min.aa0708eb5244a91728775e7d5784a6ea4a8066b0ea815da32831bbd731714c02ff00bca4a906f8dad4076fdccb5c2cc2.js"></script>
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.css"
+   integrity="sha384-MlJdn/WNKDGXveldHDdyRP1R4CTHr3FeuDNfhsLPYrq2t0UBkUdK2jyTnXPEK1NQ"  media="print"
+  onload="this.media='all';this.onload=null" crossorigin>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.js" 
+  integrity="sha384-VQ8d8WVFw0yHhCk5E8I86oOhv48xLpnDZx5T9GogA/Y84DcCKWXDmSDfn13bzFZY"  crossorigin></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/contrib/auto-render.min.js"
+   integrity="sha384-&#43;XBljXPPiv&#43;OzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR"  crossorigin></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    renderMathInElement(document.body, {
+      delimiters: [
+        { left: "$$", right: "$$", display: true },
+        { left: "$", right: "$", display: false },
+        { left: "\\(", right: "\\)", display: false },
+        { left: "\\[", right: "\\]", display: true }
+      ],
+    });
+  });
+</script>
+
+
+<script defer src="https://cdn.jsdelivr.net/npm/mermaid@8.14.0/dist/mermaid.min.js" 
+  integrity="sha384-atOyb0FxAgN9LyAc6PEf9BjgwLISyansgdH8/VXQH8p2o5vfrRgmGIJ2Sg22L0A0"  crossorigin></script>
+
+
+<link rel="icon" type="image/png" sizes="32x32" href="/images/icon_hu320c6fdebe240fc297c91c9a01fb013b_296553_32x32_fill_box_center_3.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/icon_hu320c6fdebe240fc297c91c9a01fb013b_296553_180x180_fill_box_center_3.png">
+
+<meta name="description"
+  content="Eureka is a elegant and powerful theme for Hugo.">
+
+
+
+<meta property="og:title" content="Future Leo&#39;s Blog" />
+<meta property="og:type" content="website" />
+
+
+<meta property="og:image" content="/images/icon.png">
+
+
+<meta property="og:url" content="/" />
+
+
+
+
+
+<meta property="og:description" content="Eureka is a elegant and powerful theme for Hugo." />
+
+
+
+
+
+<meta property="og:locale" content="en" />
+
+
+
+
+<meta property="og:site_name" content="Future Leo&#39;s Blog" />
+
+
+
+
+
+
+<meta property="og:updated_time" content="2022-05-13T13:11:22&#43;08:00" />
+
+
+
+<meta property="article:section" content="" />
+
+
+<link rel="alternate" type="application/rss+xml" href="/index.xml" title="Future Leo's Blog" />
+
+
+  <body class="flex min-h-screen flex-col">
+    <header
+      class="min-h-16 pl-scrollbar bg-secondary-bg fixed z-50 flex w-full items-center shadow-sm"
+    >
+      <div class="mx-auto w-full max-w-screen-xl"><script>
+    let storageColorScheme = localStorage.getItem("lightDarkMode")
+    if (((storageColorScheme == 'Auto' || storageColorScheme == null) && window.matchMedia("(prefers-color-scheme: dark)").matches) || storageColorScheme == "Dark") {
+        document.getElementsByTagName('html')[0].classList.add('dark')
+    }
+</script>
+<nav class="flex items-center justify-between flex-wrap px-4 py-4 md:py-0">
+    <a href="/" class="me-6 text-primary-text text-xl font-bold">Future Leo&#39;s Blog</a>
+    <button id="navbar-btn" class="md:hidden flex items-center px-3 py-2" aria-label="Open Navbar">
+        <i class="fas fa-bars"></i>
+    </button>
+
+    <div id="target"
+        class="hidden block md:flex md:grow md:justify-between md:items-center w-full md:w-auto text-primary-text z-20">
+        <div class="md:flex md:h-16 text-sm md:grow pb-4 md:pb-0 border-b md:border-b-0">
+            <a href="/#home" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  me-4">Home</a>
+            <a href="/#publications" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  me-4">Publications</a>
+            <a href="/#projects" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  me-4">Projects</a>
+            <a href="/posts/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  me-4">Posts</a>
+        </div>
+
+        <div class="flex">
+            <div class="relative pt-4 md:pt-0">
+                <div class="cursor-pointer hover:text-eureka" id="lightDarkMode">
+                    <i class="fas fa-adjust"></i>
+                </div>
+                <div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-30" id="is-open">
+                </div>
+                <div class="absolute flex flex-col start-0 md:start-auto end-auto md:end-0 hidden bg-secondary-bg w-48 rounded py-2 border border-tertiary-bg cursor-pointer z-40"
+                    id='lightDarkOptions'>
+                    <span class="px-4 py-1 hover:text-eureka" name="Light">Light</span>
+                    <span class="px-4 py-1 hover:text-eureka" name="Dark">Dark</span>
+                    <span class="px-4 py-1 hover:text-eureka" name="Auto">Auto</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-0" id="is-open-mobile">
+    </div>
+
+</nav>
+<script>
+    
+    let element = document.getElementById('lightDarkMode')
+    if (storageColorScheme == null || storageColorScheme == 'Auto') {
+        document.addEventListener('DOMContentLoaded', () => {
+            window.matchMedia("(prefers-color-scheme: dark)").addEventListener('change', switchDarkMode)
+        })
+    } else if (storageColorScheme == "Light") {
+        element.firstElementChild.classList.remove('fa-adjust')
+        element.firstElementChild.setAttribute("data-icon", 'sun')
+        element.firstElementChild.classList.add('fa-sun')
+    } else if (storageColorScheme == "Dark") {
+        element.firstElementChild.classList.remove('fa-adjust')
+        element.firstElementChild.setAttribute("data-icon", 'moon')
+        element.firstElementChild.classList.add('fa-moon')
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+        getcolorscheme();
+        switchBurger();
+    });
+</script>
+</div>
+    </header>
+    <main class="grow pt-16">
+  
+  
+  
+    
+      
+  
+
+  
+
+  
+  
+  
+
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+  
+
+  
+  
+
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+
+    
+    
+    
+    
+    
+  
+
+
+  <div
+    class="pl-scrollbar bg-secondary-bg"
+    
+  >
+    <div class="mx-auto max-w-screen-xl">
+      <div
+        id="home"
+        class="lg:w-4/5 mx-auto px-6 md:px-8 xl:px-12 py-12"
+      >
+        
+  
+
+  
+    
+      
+      <div class="mb-12 flex flex-col items-center justify-center md:flex-row">
+  
+  
+    <div class="md:ms-0 md:me-8 md:pe-8 md:border-e mx-auto w-48 flex-none">
+      <img src="/images/icon.png" class="rounded-full" alt="Avatar" />
+    </div>
+  
+  <div class="mt-4 w-full grow md:mt-0">
+    <h1 class="py-4 text-3xl">Wenyao Liu</h1>
+    <div class="w-3/12 border-b xl:w-2/12"></div>
+
+    <div class="flex items-center pt-4">
+      
+        <i class="fas fa-user"></i>
+      
+      <div class="flex flex-wrap">
+        
+          <span class="ps-4">Research &amp; Teaching Assistant</span>
+        
+
+        
+          <a href="https://go.okstate.edu/" class="ps-4">Oklahoma State University</a>
+        
+      </div>
+    </div>
+
+    
+      <div class="py-8 text-lg leading-normal">
+        <p>I realized the wisdom of life and always remind myself &mdash; <p><center><strong>View the future and prepare for the future.</strong></center></p></p>
+
+      </div>
+    
+  </div>
+  <div class="md:ms-8 flex items-end justify-center md:flex-col">
+    
+    
+      
+      
+      
+      
+      
+      <div class="mx-2 mb-2 mt-4 md:mx-0 md:mt-2">
+        <a href="mailto:wenyao.liu@okstate.edu"><i class="fas fa-envelope"></i></a>
+      </div>
+    
+      
+      
+      
+      
+      
+      <div class="mx-2 mb-2 mt-4 md:mx-0 md:mt-2">
+        <a href="https://www.linkedin.com/in/wenyaoliu"><i class="fab fa-linkedin"></i></a>
+      </div>
+    
+      
+      
+      
+      
+      
+      <div class="mx-2 mb-2 mt-4 md:mx-0 md:mt-2">
+        <a href="https://github.com/wenyaoliu"><i class="fab fa-github"></i></a>
+      </div>
+    
+      
+      
+      
+      
+      
+      <div class="mx-2 mb-2 mt-4 md:mx-0 md:mt-2">
+        <a href="https://scholar.google.com/citations?user=Xg1iICcAAAAJ&amp;hl=en&amp;oi=ao"><i class="fas fa-user-graduate"></i></a>
+      </div>
+    
+  </div>
+</div>
+<div class="prose">
+  <p><img src="https://raw.githubusercontent.com/wenyaoliu/images/main/picGo/Interests_and_skillsets.png" alt=""></p>
+<h2 id="capabilities"><strong>Capabilities</strong></h2>
+<details>
+  <summary><strong>Integrated skillsets in data science and machine learning.</strong></summary>
+<ul>
+<li>
+<p>Capabilities of data <strong>management</strong>, data <strong>wrangling</strong>, <strong>modeling</strong>, <strong>visualization</strong>, and <strong>communication</strong>;</p>
+</li>
+<li>
+<p><strong>Programming</strong> in R, Python, SQL, and Scala <strong>for normal and big data processing and analysis</strong>;</p>
+</li>
+<li>
+<p><strong>Statistical modeling and interpretations</strong> demonstrated in published journal papers;</p>
+</li>
+<li>
+<p><strong>Machine learning and spatial-temporal analysis</strong> being applied in my Ph.D. thesis.</p>
+</li>
+</ul>
+</details>
+<details>
+  <summary><strong>Professional background in transportation engineering.</strong></summary>
+<ul>
+<li>
+<p><strong>A big picture thinking in transportation engineering</strong> built on years of studying in civil engineering ;</p>
+</li>
+<li>
+<p><strong>In-depth understanding of pavement performance models and specifications</strong> thanks to experience as a teaching assistant;</p>
+</li>
+<li>
+<p><strong>Proficiency in the laboratory evaluation of asphalt materials</strong> as proved by peer-reviewed publications.</p>
+</li>
+</ul>
+</details>
+<details>
+  <summary><strong>Comprehensive soft skills and a positive personality.</strong></summary>
+<ul>
+<li><strong>Problem-solving</strong> with innovation and skills;</li>
+<li><strong>Leadership</strong> with adaptability to changing situations;</li>
+<li><strong>Collaborative working</strong> following time and task management;</li>
+<li><strong>Enthusiastic communication</strong> in person or public presentation.</li>
+</ul>
+</details>
+<h2 id="education">Education</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Oklahoma State University</th>
+<th style="text-align:center">Ph.D.</th>
+<th style="text-align:center">Stillwater, OK</th>
+<th style="text-align:center">2019.01 — 2022.08(Expected)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"><strong>Hunan University</strong></td>
+<td style="text-align:center"><strong>M.S.</strong></td>
+<td style="text-align:center"><strong>Changsha, China</strong></td>
+<td style="text-align:center"><strong>2015.09 — 2018.06</strong></td>
+</tr>
+<tr>
+<td style="text-align:left"><strong>Hunan University</strong></td>
+<td style="text-align:center"><strong>B.A.</strong></td>
+<td style="text-align:center"><strong>Changsha, China</strong></td>
+<td style="text-align:center"><strong>2011.09 — 2015.06</strong></td>
+</tr>
+</tbody>
+</table>
+<h2 id="publications">Publications</h2>
+<ol>
+<li>
+<p>Li, J. Q.*, <strong>W. Liu</strong>, X. Yang, P. Lu, and K. C. P. Wang. 2022. “Statistical Safety Performance Models considering Pavement and Roadway Characteristics.” Journal of Advanced Transportation, 2022: e5871601. Hindawi. <a href="https://doi.org/10.1155/2022/5871601">https://doi.org/10.1155/2022/5871601</a>.</p>
+</li>
+<li>
+<p><strong>Liu, W.</strong>, J. Q. Li*, X. Yang, K. Wang, and W. Yu. 2022. “Integrating Skid Resistance and Safety Benefits into Life Cycle Cost Analysis for Pavement Surface Treatment Selection.” Journal of Transportation Engineering, Part B: Pavements, 148 (2): 04022015. American Society of Civil Engineers. <a href="https://doi.org/10/gpqm2m">https://doi.org/10/gpqm2m</a>.</p>
+</li>
+<li>
+<p><strong>Liu, W.</strong>, J. Q. Li*, W. Yu, and G. Yang. 2021. “Change-Point Detection Approaches for Pavement Dynamic Segmentation.” Journal of Transportation Engineering, Part B: Pavements, 147 (2): 06021001. American Society of Civil Engineers. <a href="https://doi.org/10.1061/JPEODX.0000270">https://doi.org/10.1061/JPEODX.0000270</a>.</p>
+</li>
+<li>
+<p><strong>Liu, W.</strong>, K. Yan, J. Q. Li*, and S. Yang. 2021. “Peridynamics-based simulation of semi-circular bending (SCB) testing.” Construction and Building Materials, 268: 121190. <a href="https://doi.org/10/gj74d8">https://doi.org/10/gj74d8</a>.</p>
+</li>
+<li>
+<p>Yan, K., <strong>W. Liu</strong>*, L. You, J. Ou, and M. Zhang. 2021. “Evaluation of waste cooling oil and European Rock Asphalt modified asphalt with laboratory tests and economic cost comparison.” Journal of Cleaner Production, 310: 127364. <a href="https://doi.org/10.1016/j.jclepro.2021.127364">https://doi.org/10.1016/j.jclepro.2021.127364</a>.</p>
+</li>
+<li>
+<p><strong>Liu, W.</strong>, K. Yan*, D. Ge, and M. Chen. 2018. “Effect of APAO on the aging properties of waste tire rubber modified asphalt binder.” Construction and Building Materials, 175: 333–341. <a href="https://doi.org/10/gj74fb">https://doi.org/10/gj74fb</a>.</p>
+</li>
+<li>
+<p>Yang, G., K. Wang, J. Q. Li*, M. Romero, and <strong>W. Liu</strong>. 2022. “Laboratory and Field Performance Evaluation of Warm Mix Asphalt Incorporating RAP and RAS.” KSCE J Civ Eng, 26 (1): 107. <a href="https://doi.org/10/gn34vm">https://doi.org/10/gn34vm</a>.</p>
+</li>
+<li>
+<p>Li, J. Q.*, K. Wang, S. A. Cross, <strong>W. Liu</strong>, and K. Suitor. 2021. “ODOT Involvement with the NCAT Test Track and Task Groups.” International Conference on Transportation and Development 2021 (pp. 215-224). <a href="https://doi.org/10.1061/9780784483541.020">https://doi.org/10.1061/9780784483541.020</a>.</p>
+</li>
+<li>
+<p>Yan, K.*, H. Lan, Z. Duan, <strong>W. Liu</strong>, L. You, S. Wu, and M. Miljković. 2021. “Mechanical performance of asphalt rejuvenated with various vegetable oils.” Construction and Building Materials, 293: 123485. <a href="https://doi.org/10.1016/j.conbuildmat.2021.123485">https://doi.org/10.1016/j.conbuildmat.2021.123485</a>.</p>
+</li>
+<li>
+<p>Liu, J., K. Yan*, <strong>W. Liu</strong>, and X. Zhao. 2020. “Partially replacing Styrene-Butadiene-Styrene (SBS) with other asphalt binder modifier: Feasibility study.” Construction and Building Materials, 249: 118752. <a href="https://doi.org/10.1016/j.conbuildmat.2020.118752">https://doi.org/10.1016/j.conbuildmat.2020.118752</a>.</p>
+</li>
+<li>
+<p>Zhu, W., J. Pan, W. Ma*, S. Deng, W. Zhou, <strong>W. Liu</strong>, S. Long, C. Yang, and L. You. 2021. “Dynamic response of the heterogeneous deep-sea sediment with nonlinear gradient modulus to mining machine loading.” Marine Georesources &amp; Geotechnology, 40 (3): 255–266. Taylor &amp; Francis. <a href="https://doi.org/10/gj8fnc">https://doi.org/10/gj8fnc</a>.</p>
+</li>
+<li>
+<p>Yan, K.*, W. He, M. Chen, and <strong>W. Liu</strong>. 2016. “Laboratory investigation of waste tire rubber and amorphous poly alpha olefin modified asphalt.” Construction and Building Materials, 129: 256–265. <a href="https://doi.org/10.1016/j.conbuildmat.2016.10.090">https://doi.org/10.1016/j.conbuildmat.2016.10.090</a>.</p>
+</li>
+<li>
+<p>Zhang X., K Yan, and <strong>W. Liu*</strong>. 2022. “Partially Replacing Cement with Rice Husk Ash (RHA) in Cement Stabilized Macadam (CSM) containing Reclaimed Asphalt Pavement (RAP) for Qualified Subbase.” Road Materials and Pavement Design. (Under Review).</p>
+</li>
+<li>
+<p><strong>Liu, W</strong>, K Yan*, and Hongyan Ji. 2022. “Bonding Performance Evaluation on WTR-APAO Composite Modified Asphalt as Waterproof Adhesive Layer for Concrete Bridge”. Construction and Building Materials. (Under Review).</p>
+</li>
+<li>
+<p><strong>Liu, W.</strong>, J. Q. Li, and K. Wang. 2022. “Pavement characteristics prediction by machine learning on vehicular sensor data.” (In Preparation).</p>
+</li>
+</ol>
+
+</div>
+
+      
+    
+  
+
+      </div>
+    </div>
+  </div>
+
+    
+
+    
+  
+    
+      
+  
+
+  
+
+  
+  
+  
+
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+  
+
+  
+  
+
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+
+    
+    
+    
+    
+    
+  
+
+
+  <div
+    class="pl-scrollbar bg-primary-bg"
+    
+  >
+    <div class="mx-auto max-w-screen-xl">
+      <div
+        id="projects"
+        class="w-full mx-auto px-6 md:px-8 xl:px-12 py-12"
+      >
+        
+  
+
+  
+    
+      
+      
+  <h2 class=" font-bold text-3xl my-4">Selected Projects</h2>
+
+
+  
+  <div class="pb-2 text-right hover:text-eureka">
+    
+  <a href="/projects/" class="font-semibold">Read More</a>
+  <i class='fas fa-caret-right ms-1'></i>
+
+  </div>
+  
+  <div class="masonry grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-8">
+  
+  <div class="item">
+    <div class="grid-content">
+      <div
+  class="bg-secondary-bg dark:border-tertiary-bg overflow-hidden rounded border transition duration-200 ease-in-out hover:shadow-lg"
+>
+  
+  
+    <img src="/images/Crack_comparison.png" class="w-full" alt="Featured Image">
+  
+  <div class="prose px-6 pt-6 pb-4">
+    <a href="/projects/peridynamics-simulation-scb-copy-copy/" class="no-underline">
+      <h3 class="mt-0">Peridynamics-based simulation of asphalt mixture cracking in semi-circular bending (SCB) test</h3>
+    </a>
+    
+      1. Peridynamics model was applied to simulate SCB testing for asphalt mixtures. 2. Cracking patterns in simulation match lab observations well. 3. Fracture energy and P-u curve from simulation agrees with experimental results. 4. Arch effect and energy transformation during SCB testing were investigated.
+    
+    <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2020-05-26</span
+    >
+  </div>
+  <div class="me-6 my-2">
+    <i class="fas fa-clock me-1"></i>
+    <span>1 min read</span>
+  </div>
+
+  
+    <div class="me-6 my-2">
+      <i class="fas fa-folder me-1"></i>
+      
+        <a href="/categories/mechanics/" class="hover:text-eureka"
+          >Mechanics</a
+        >
+      
+    </div>
+  
+
+  
+    <div class="me-6 my-2">
+      <i class="fas fa-th-list me-1"></i>
+      
+        <a href="/series/simulation/" class="hover:text-eureka"
+          >Simulation</a
+        >
+      
+    </div>
+  
+</div>
+
+  </div>
+</div>
+
+    </div>
+  </div>
+  
+  <div class="item">
+    <div class="grid-content">
+      <div
+  class="bg-secondary-bg dark:border-tertiary-bg overflow-hidden rounded border transition duration-200 ease-in-out hover:shadow-lg"
+>
+  
+  
+    <img src="/images/interests2.png" class="w-full" alt="Featured Image">
+  
+  <div class="prose px-6 pt-6 pb-4">
+    <a href="/projects/peridynamics-simulation-scb-copy/" class="no-underline">
+      <h3 class="mt-0">Peridynamics-based simulation of asphalt mixture cracking in semi-circular bending (SCB) test</h3>
+    </a>
+    
+      1. Peridynamics model was applied to simulate SCB testing for asphalt mixtures. 2. Cracking patterns in simulation match lab observations well. 3. Fracture energy and P-u curve from simulation agrees with experimental results. 4. Arch effect and energy transformation during SCB testing were investigated.
+    
+    <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2020-05-26</span
+    >
+  </div>
+  <div class="me-6 my-2">
+    <i class="fas fa-clock me-1"></i>
+    <span>1 min read</span>
+  </div>
+
+  
+    <div class="me-6 my-2">
+      <i class="fas fa-folder me-1"></i>
+      
+        <a href="/categories/mechanics/" class="hover:text-eureka"
+          >Mechanics</a
+        >
+      
+    </div>
+  
+
+  
+    <div class="me-6 my-2">
+      <i class="fas fa-th-list me-1"></i>
+      
+        <a href="/series/simulation/" class="hover:text-eureka"
+          >Simulation</a
+        >
+      
+    </div>
+  
+</div>
+
+  </div>
+</div>
+
+    </div>
+  </div>
+  
+  <div class="item">
+    <div class="grid-content">
+      <div
+  class="bg-secondary-bg dark:border-tertiary-bg overflow-hidden rounded border transition duration-200 ease-in-out hover:shadow-lg"
+>
+  
+  
+    <img src="/images/Crack_comparison.png" class="w-full" alt="Featured Image">
+  
+  <div class="prose px-6 pt-6 pb-4">
+    <a href="/projects/peridynamics-simulation-scb/" class="no-underline">
+      <h3 class="mt-0">Peridynamics-based simulation of asphalt mixture cracking in semi-circular bending (SCB) test</h3>
+    </a>
+    
+      1. Peridynamics model was applied to simulate SCB testing for asphalt mixtures. 2. Cracking patterns in simulation match lab observations well. 3. Fracture energy and P-u curve from simulation agrees with experimental results. 4. Arch effect and energy transformation during SCB testing were investigated.
+    
+    <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2020-05-26</span
+    >
+  </div>
+  <div class="me-6 my-2">
+    <i class="fas fa-clock me-1"></i>
+    <span>1 min read</span>
+  </div>
+
+  
+    <div class="me-6 my-2">
+      <i class="fas fa-folder me-1"></i>
+      
+        <a href="/categories/mechanics/" class="hover:text-eureka"
+          >Mechanics</a
+        >
+      
+    </div>
+  
+
+  
+    <div class="me-6 my-2">
+      <i class="fas fa-th-list me-1"></i>
+      
+        <a href="/series/simulation/" class="hover:text-eureka"
+          >Simulation</a
+        >
+      
+    </div>
+  
+</div>
+
+  </div>
+</div>
+
+    </div>
+  </div>
+  
+
+</div>
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    enableMasonry()
+  })
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+  
+
+      </div>
+    </div>
+  </div>
+
+    
+
+    
+  
+    
+      
+  
+
+  
+
+  
+  
+  
+
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+  
+
+  
+  
+
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+
+    
+    
+    
+    
+    
+  
+
+
+  <div
+    class="pl-scrollbar bg-secondary-bg"
+    
+  >
+    <div class="mx-auto max-w-screen-xl">
+      <div
+        id="publications"
+        class="w-full mx-auto px-6 md:px-8 xl:px-12 py-12"
+      >
+        
+  
+
+  
+    
+      
+      
+  <h2 class=" font-bold text-3xl my-4">Publications</h2>
+
+
+  
+  
+  <div class="overflow-hidden">
+    
+<div class="mb-6">
+  <div class="bg-secondary-bg rounded border hover:shadow-lg transition ease-in-out duration-200 px-6 pt-6 pb-4">
+  <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="/publications/journal-papers/" class="no-underline">
+    <h3 class="mt-0">Journal Papers</h3>
+  </a>
+  
+    As key contributor  Li, J. Q.*, W. Liu, X. Yang, P. Lu, and K. C. P. Wang. 2022. “Statistical Safety Performance Models considering Pavement and Roadway Characteristics.” Journal of Advanced Transportation, 2022: e5871601. Hindawi. https://doi.org/10.1155/2022/5871601. Liu, W., J. Q. Li*, X. Yang, K. Wang, and W. Yu. 2022. “Integrating Skid Resistance and Safety Benefits into Life Cycle Cost Analysis for Pavement Surface Treatment Selection.” Journal of Transportation Engineering, Part B: Pavements, 148 (2): 04022015. American Society of Civil Engineers.
+  
+
+  
+    <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2022-05-13</span
+    >
+  </div>
+  <div class="me-6 my-2">
+    <i class="fas fa-clock me-1"></i>
+    <span>3 min read</span>
+  </div>
+
+  
+
+  
+</div>
+
+  
+</div>
+
+  </div>
+
+  
+</div>
+</div>
+</div>
+
+<div class="mb-6">
+  <div class="bg-secondary-bg rounded border hover:shadow-lg transition ease-in-out duration-200 px-6 pt-6 pb-4">
+  <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="/publications/journal-papers-copy/" class="no-underline">
+    <h3 class="mt-0">Project Reports and Proposals</h3>
+  </a>
+  
+    Reports  Joshua Q. Li, Kelvin C. P. Wang, Wenyao Liu, and Wenying Yu. 2021. “Utilizing Pavement Friction and Texture Data for the Reduction of Traffic Crashes and Delays.” Final Report FHWA-OK-21-01 (SP&amp;R 2309). Oklahoma Department of Transportation (ODOT), Oklahoma City, OK. Joshua Q. Li, Kelvin C. P. Wang, Wenying Yu, Wenyao Liu. 2020. “Continuous Friction Measurement Equipment (CFME) for Highway Safety Management in Oklahoma.” Final Report FHWA-OK-20-02 (SP&amp;R 2306). Oklahoma Department of Transportation (ODOT), Oklahoma City, OK.
+  
+
+  
+    <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2022-04-13</span
+    >
+  </div>
+  <div class="me-6 my-2">
+    <i class="fas fa-clock me-1"></i>
+    <span>1 min read</span>
+  </div>
+
+  
+
+  
+</div>
+
+  
+</div>
+
+  </div>
+
+  
+</div>
+</div>
+</div>
+
+<div class="mb-6">
+  <div class="bg-secondary-bg rounded border hover:shadow-lg transition ease-in-out duration-200 px-6 pt-6 pb-4">
+  <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="/publications/patents/" class="no-underline">
+    <h3 class="mt-0">Patent</h3>
+  </a>
+  
+      Wenyao Liu (2018). Bike Saddle Capable of Being Turned Over for Replacement. China Invention Patent.
+  Wenyao Liu (2016). A Moving-object Article Management System. China Unity Model Patent.
+  
+  
+
+  
+    <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2021-04-03</span
+    >
+  </div>
+  <div class="me-6 my-2">
+    <i class="fas fa-clock me-1"></i>
+    <span>1 min read</span>
+  </div>
+
+  
+
+  
+</div>
+
+  
+</div>
+
+  </div>
+
+  
+</div>
+</div>
+</div>
+
+    <div class="px-8 pt-2 hover:text-eureka">
+      
+  <a href="/publications/" class="font-semibold">Read More</a>
+  <i class='fas fa-caret-right ms-1'></i>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+  
+
+      </div>
+    </div>
+  </div>
+
+    
+
+    
+  
+    
+      
+  
+
+  
+
+  
+  
+  
+
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+  
+
+  
+  
+
+  
+
+
+  <div
+    class="pl-scrollbar bg-tertiary-bg"
+    
+  >
+    <div class="mx-auto max-w-screen-xl">
+      <div
+        id="vintage"
+        class=""
+      >
+        
+  
+
+  
+    
+      
+      <div class="grid grid-cols-9 grid-rows-5 h-(screen-16)">
+  <div class="col-start-2 col-span-4 row-start-3 row-span-2 bg-local bg-cover z-10 shadow-2xl"
+    style="background-image: url(/images/hero-left.jpg);"></div>
+
+  <div class="col-start-3 col-span-5 row-start-2 row-span-3 z-20">
+    <div class="flex flex-col items-center justify-center min-h-full">
+      <div class="bg-white bg-opacity-75 shadow-2xl -m-12 p-12">
+        <span class="font-bold text-black text-opacity-75 text-2xl md:text-3xl">View the future and prepare for it.</span>
+      </div>
+    </div>
+  </div>
+  <div class="col-start-5 col-span-4 row-start-2 row-span-2 bg-local bg-cover shadow-2xl"
+    style="background-image: url(/images/hero-right.jpg);">
+  </div>
+</div>
+      
+    
+  
+
+      </div>
+    </div>
+  </div>
+
+    
+
+    
+  
+    
+      
+  
+
+  
+
+  
+  
+  
+
+  
+    
+    
+    
+    
+    
+    
+      
+      
+        
+      
+    
+
+    
+    
+    
+    
+
+    
+    
+    
+    
+
+  
+
+  
+  
+
+  
+    
+    
+    
+    
+      
+      
+    
+
+    
+    
+    
+    
+    
+  
+
+
+  <div
+    class="pl-scrollbar bg-cover"
+    style="background-image: url(/images/hero-left.jpg);"
+  >
+    <div class="mx-auto max-w-screen-xl">
+      <div
+        id="blank"
+        class="lg:w-3/4 mx-auto px-6 md:px-8 xl:px-12 py-12"
+      >
+        
+  
+
+  
+    
+      
+      
+<div style="text-align:center">
+  <p>Write anything you like here!</p>
+</div>
+      
+    
+  
+
+      </div>
+    </div>
+  </div>
+
+    
+
+    
+  
+    </main>
+    <footer class="pl-scrollbar">
+      <div class="mx-auto w-full max-w-screen-xl"><div class="text-center p-6 pin-b">
+    <p class="text-sm text-tertiary-text">&copy; 2022 <a href="https://www.wenyaoliu.com">Wenyao Liu</a> 
+ &middot;  Powered by the <a href="https://github.com/wangchucheng/hugo-eureka" class="hover:text-eureka">Eureka</a> theme for <a href="https://gohugo.io" class="hover:text-eureka">Hugo</a></p>
+</div></div>
+    </footer>
+  </body>
+</html>

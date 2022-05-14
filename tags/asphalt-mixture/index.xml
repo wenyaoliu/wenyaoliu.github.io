@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Asphalt mixture on Future Leo&#39;s Blog</title>
+    <link>/tags/asphalt-mixture/</link>
+    <description>Recent content in Asphalt mixture on Future Leo&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2022 &lt;a href=&#34;https://www.wenyaoliu.com&#34;&gt;Wenyao Liu&lt;/a&gt; 
+</copyright>
+    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/asphalt-mixture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Peridynamics-based simulation of asphalt mixture cracking in semi-circular bending (SCB) test</title>
+      <link>/projects/peridynamics-simulation-scb-copy-copy/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/peridynamics-simulation-scb-copy-copy/</guid>
+      <description>&lt;p&gt;In this project, peridynamics, a new fracture mechanics methodology that extends classical continuum mechanics to discontinuous material responses, is implemented to simulate crack propagation during the SCB testing process.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Peridynamics-based simulation of asphalt mixture cracking in semi-circular bending (SCB) test</title>
+      <link>/projects/peridynamics-simulation-scb-copy/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/peridynamics-simulation-scb-copy/</guid>
+      <description>&lt;p&gt;In this project, peridynamics, a new fracture mechanics methodology that extends classical continuum mechanics to discontinuous material responses, is implemented to simulate crack propagation during the SCB testing process.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Peridynamics-based simulation of asphalt mixture cracking in semi-circular bending (SCB) test</title>
+      <link>/projects/peridynamics-simulation-scb/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/peridynamics-simulation-scb/</guid>
+      <description>&lt;p&gt;In this project, peridynamics, a new fracture mechanics methodology that extends classical continuum mechanics to discontinuous material responses, is implemented to simulate crack propagation during the SCB testing process.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

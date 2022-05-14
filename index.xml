@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Future Leo&#39;s Blog</title>
+    <link>/</link>
+    <description>Recent content on Future Leo&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2022 &lt;a href=&#34;https://www.wenyaoliu.com&#34;&gt;Wenyao Liu&lt;/a&gt; 
+</copyright>
+    <lastBuildDate>Fri, 13 May 2022 13:11:22 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Journal Papers</title>
+      <link>/publications/journal-papers/</link>
+      <pubDate>Fri, 13 May 2022 13:11:22 +0800</pubDate>
+      
+      <guid>/publications/journal-papers/</guid>
+      <description>As key contributor  Li, J. Q.*, W. Liu, X. Yang, P. Lu, and K. C. P. Wang. 2022. “Statistical Safety Performance Models considering Pavement and Roadway Characteristics.” Journal of Advanced Transportation, 2022: e5871601. Hindawi. https://doi.org/10.1155/2022/5871601. Liu, W., J. Q. Li*, X. Yang, K. Wang, and W. Yu. 2022. “Integrating Skid Resistance and Safety Benefits into Life Cycle Cost Analysis for Pavement Surface Treatment Selection.” Journal of Transportation Engineering, Part B: Pavements, 148 (2): 04022015. American Society of Civil Engineers.</description>
+    </item>
+    
+    <item>
+      <title>Project Reports and Proposals</title>
+      <link>/publications/journal-papers-copy/</link>
+      <pubDate>Wed, 13 Apr 2022 13:11:22 +0800</pubDate>
+      
+      <guid>/publications/journal-papers-copy/</guid>
+      <description>Reports  Joshua Q. Li, Kelvin C. P. Wang, Wenyao Liu, and Wenying Yu. 2021. “Utilizing Pavement Friction and Texture Data for the Reduction of Traffic Crashes and Delays.” Final Report FHWA-OK-21-01 (SP&amp;amp;R 2309). Oklahoma Department of Transportation (ODOT), Oklahoma City, OK. Joshua Q. Li, Kelvin C. P. Wang, Wenying Yu, Wenyao Liu. 2020. “Continuous Friction Measurement Equipment (CFME) for Highway Safety Management in Oklahoma.” Final Report FHWA-OK-20-02 (SP&amp;amp;R 2306). Oklahoma Department of Transportation (ODOT), Oklahoma City, OK.</description>
+    </item>
+    
+    <item>
+      <title>Patent</title>
+      <link>/publications/patents/</link>
+      <pubDate>Sat, 03 Apr 2021 13:11:22 +0800</pubDate>
+      
+      <guid>/publications/patents/</guid>
+      <description>  Wenyao Liu (2018). Bike Saddle Capable of Being Turned Over for Replacement. China Invention Patent.
+  Wenyao Liu (2016). A Moving-object Article Management System. China Unity Model Patent.
+  </description>
+    </item>
+    
+    <item>
+      <title>Diagram Support</title>
+      <link>/posts/diagram-support/</link>
+      <pubDate>Wed, 31 Mar 2021 13:11:22 +0800</pubDate>
+      
+      <guid>/posts/diagram-support/</guid>
+      <description>&lt;p&gt;Eureka supports the rendering of diagrams by using Mermaid.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Math Support</title>
+      <link>/posts/math-support/</link>
+      <pubDate>Fri, 20 Nov 2020 22:52:56 +0800</pubDate>
+      
+      <guid>/posts/math-support/</guid>
+      <description>&lt;p&gt;Eureka supports the rendering of mathematical formulas by using KaTeX.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 1</title>
+      <link>/docs/example-doc/chapter-1/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/example-doc/chapter-1/</guid>
+      <description>&lt;p&gt;This is chapter 1 of example doc.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 1</title>
+      <link>/docs/example-doc/nested-chapter/chapter-1/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/example-doc/nested-chapter/chapter-1/</guid>
+      <description>&lt;p&gt;This is chapter 1 of nested chapter.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 2</title>
+      <link>/docs/example-doc/chapter-2/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/example-doc/chapter-2/</guid>
+      <description>&lt;p&gt;This is chapter 2 of example doc.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 2</title>
+      <link>/docs/example-doc/nested-chapter/chapter-2/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/example-doc/nested-chapter/chapter-2/</guid>
+      <description>&lt;p&gt;This is chapter 2 of nested chapter.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Featured Image</title>
+      <link>/posts/featured-image/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/featured-image/</guid>
+      <description>&lt;p&gt;Maecenas maximus, elit in ornare porttitor, nisi eros hendrerit nisl, sed fermentum nulla urna blandit tellus.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Peridynamics-based simulation of asphalt mixture cracking in semi-circular bending (SCB) test</title>
+      <link>/projects/peridynamics-simulation-scb-copy-copy/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/peridynamics-simulation-scb-copy-copy/</guid>
+      <description>&lt;p&gt;In this project, peridynamics, a new fracture mechanics methodology that extends classical continuum mechanics to discontinuous material responses, is implemented to simulate crack propagation during the SCB testing process.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Peridynamics-based simulation of asphalt mixture cracking in semi-circular bending (SCB) test</title>
+      <link>/projects/peridynamics-simulation-scb-copy/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/peridynamics-simulation-scb-copy/</guid>
+      <description>&lt;p&gt;In this project, peridynamics, a new fracture mechanics methodology that extends classical continuum mechanics to discontinuous material responses, is implemented to simulate crack propagation during the SCB testing process.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Peridynamics-based simulation of asphalt mixture cracking in semi-circular bending (SCB) test</title>
+      <link>/projects/peridynamics-simulation-scb/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/peridynamics-simulation-scb/</guid>
+      <description>&lt;p&gt;In this project, peridynamics, a new fracture mechanics methodology that extends classical continuum mechanics to discontinuous material responses, is implemented to simulate crack propagation during the SCB testing process.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>/posts/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>/posts/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>/posts/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
