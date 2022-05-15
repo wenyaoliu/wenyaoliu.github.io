@@ -11,32 +11,41 @@
     <lastBuildDate>Fri, 13 May 2022 13:11:22 +0800</lastBuildDate><atom:link href="/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Journal Papers</title>
-      <link>/publications/journal-papers/</link>
+      <link>/publications/01-journal-papers/</link>
       <pubDate>Fri, 13 May 2022 13:11:22 +0800</pubDate>
       
-      <guid>/publications/journal-papers/</guid>
+      <guid>/publications/01-journal-papers/</guid>
       <description>As key contributor  Li, J. Q.*, W. Liu, X. Yang, P. Lu, and K. C. P. Wang. 2022. “Statistical Safety Performance Models considering Pavement and Roadway Characteristics.” Journal of Advanced Transportation, 2022: e5871601. Hindawi. https://doi.org/10.1155/2022/5871601. Liu, W., J. Q. Li*, X. Yang, K. Wang, and W. Yu. 2022. “Integrating Skid Resistance and Safety Benefits into Life Cycle Cost Analysis for Pavement Surface Treatment Selection.” Journal of Transportation Engineering, Part B: Pavements, 148 (2): 04022015. American Society of Civil Engineers.</description>
     </item>
     
     <item>
       <title>Project Reports and Proposals</title>
-      <link>/publications/journal-papers-copy/</link>
+      <link>/publications/02-project-and-reports/</link>
       <pubDate>Wed, 13 Apr 2022 13:11:22 +0800</pubDate>
       
-      <guid>/publications/journal-papers-copy/</guid>
+      <guid>/publications/02-project-and-reports/</guid>
       <description>Reports:   Joshua Q. Li, Kelvin C. P. Wang, Wenyao Liu, and Wenying Yu. 2021. “Utilizing Pavement Friction and Texture Data for the Reduction of Traffic Crashes and Delays.” Final Report FHWA-OK-21-01 (SP&amp;amp;R 2309). Oklahoma Department of Transportation (ODOT), Oklahoma City, OK.
   Joshua Q. Li, Kelvin C. P. Wang, Wenying Yu, Wenyao Liu. 2020. “Continuous Friction Measurement Equipment (CFME) for Highway Safety Management in Oklahoma.” Final Report FHWA-OK-20-02 (SP&amp;amp;R 2306). Oklahoma Department of Transportation (ODOT), Oklahoma City, OK.</description>
     </item>
     
     <item>
-      <title>Patent</title>
-      <link>/publications/patents/</link>
+      <title>Patents</title>
+      <link>/publications/03-patents/</link>
       <pubDate>Sat, 03 Apr 2021 13:11:22 +0800</pubDate>
       
-      <guid>/publications/patents/</guid>
+      <guid>/publications/03-patents/</guid>
       <description>  Wenyao Liu (2018). Bike Saddle Capable of Being Turned Over for Replacement. China Invention Patent.
   Wenyao Liu (2016). A Moving-object Article Management System. China Unity Model Patent.
   </description>
+    </item>
+    
+    <item>
+      <title>Posters and Presentations</title>
+      <link>/publications/04-posters/</link>
+      <pubDate>Sat, 03 Apr 2021 13:11:22 +0800</pubDate>
+      
+      <guid>/publications/04-posters/</guid>
+      <description>Wenyao Liu, Joshua Qiang Li, Hamed Gholizadeh (2021). “Utilization of UAV for Estimating Cut and Fill in Roadway Construction and Design.” The 2021 Oklahoma Transportation Symposium. July 27th, 2021. Oklahoma City, OK. (Poster Presentation) Wenyao Liu, Joshua Qiang Li, Xue Yang, Guangwei Yang, Kelvin Wang (2021). “Pavement Condition Assessment Utilizing Smartphone and Vehicle Sensor Data.” International Airfield &amp;amp; Highway Pavements Conference, American Society of Civil Engineers (ASCE). (Full Paper Under Preparation) Joshua Q. Li, Kelvin Wang, Stephen A.</description>
     </item>
     
   </channel>
