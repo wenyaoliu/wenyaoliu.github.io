@@ -62,9 +62,6 @@
     <loc>/tags/cracking/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/docs/</loc>
-    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/fracture-energy/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -72,9 +69,6 @@
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/peridynamics/</loc>
-    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/docs/peridynamics-simulation-scb/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/projects/01-peridynamics-simulation-scb-mechanics/</loc>
@@ -120,6 +114,9 @@
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/example-doc/nested-chapter/chapter-2/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/docs/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/docs/example-doc/</loc>
