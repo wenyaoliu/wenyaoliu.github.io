@@ -35,14 +35,5 @@ Featured results 1. Viualize the site/segment in different systems  ![**Fig. 1 S
 &lt;/ol&gt;</description>
     </item>
     
-    <item>
-      <title>Peridynamics-based simulation of asphalt mixture cracking in semi-circular bending (SCB) test</title>
-      <link>/projects/02-odot-2309-friction-safety/</link>
-      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/02-odot-2309-friction-safety/</guid>
-      <description>&lt;p&gt;In this project, peridynamics, a new fracture mechanics methodology that extends classical continuum mechanics to discontinuous material responses, is implemented to simulate crack propagation during the SCB testing process.&lt;/p&gt;</description>
-    </item>
-    
   </channel>
 </rss>
