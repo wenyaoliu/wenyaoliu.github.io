@@ -10,14 +10,14 @@
 </copyright>
     <lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Similarity Checking on four speed measurment systems</title>
+      <title>Similarity checking on four speed measurment systems</title>
       <link>/projects/03-odot-similarity-checking/</link>
       <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
       
       <guid>/projects/03-odot-similarity-checking/</guid>
-      <description>**Note: The project is undergoing and some details cannot be provided.** Introduction To improve decision making, it is vital to monotor the speed on pavement network. Four speed measurment systems are available in Oklahoma and their compabilty is unknown.
-Featured results 1. Viualize the site/segment in different systems Fig. 1 Speed measurement location comparisons.
-2. Compare the similarity between 4 systems site by site Fig. 2 Similarity factors between 4 systems site by site (-1 to 1, with 1 as the best).</description>
+      <description>**Note: The project is undergoing and some details cannot be provided.**  Introduction To improve decision making, it is vital to monotor the speed on pavement network. Four speed measurment systems are available in Oklahoma and their compabilty is unknown.
+Featured results 1. Viualize the site/segment in different systems  ![**Fig. 1 Speed measurement location comparisons.**](/images/project-03-layout.png) Fig. 1 Speed measurement location comparisons.
+ 2. Compare the similarity between 4 systems site by site  Fig. 2 Similarity factors between 4 systems site by site (-1 to 1, with 1 as the best).</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@ Featured results 1. Viualize the site/segment in different systems Fig. 1 Speed
       <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
       
       <guid>/projects/01-peridynamics-simulation-scb-mechanics/</guid>
-      <description>&lt;h2 id=&#34;highlights&#34;&gt;Highlights&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;highlights&#34;&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;Peridynamics model was applied to simulate SCB testing for asphalt mixtures.&lt;/li&gt;
 &lt;li&gt;Cracking patterns in simulation match lab observations well.&lt;/li&gt;
