@@ -8,7 +8,18 @@
     <language>en</language>
     <copyright>&amp;copy; 2022 &lt;a href=&#34;https://www.wenyaoliu.com&#34;&gt;Wenyao Liu&lt;/a&gt; 
 </copyright>
-    <lastBuildDate>Fri, 13 May 2022 13:11:22 +0800</lastBuildDate><atom:link href="/authors/wenyao-liu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/authors/wenyao-liu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Similarity Checking on four speed measurment systems</title>
+      <link>/projects/03-odot-similarity-checking/</link>
+      <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/03-odot-similarity-checking/</guid>
+      <description>**Note: The project is undergoing and some details cannot be provided.** Introduction To improve decision making, it is vital to monotor the speed on pavement network. Four speed measurment systems are available in Oklahoma and their compabilty is unknown.
+Featured results 1. Viualize the site/segment in different systems Fig. 1 Speed measurement location comparisons.
+2. Compare the similarity between 4 systems site by site Fig. 2 Similarity factors between 4 systems site by site (-1 to 1, with 1 as the best).</description>
+    </item>
+    
     <item>
       <title>Journal Papers</title>
       <link>/publications/01-journal-papers/</link>
@@ -45,10 +56,10 @@
     
     <item>
       <title>Peridynamics-based simulation of asphalt mixture cracking in semi-circular bending (SCB) test</title>
-      <link>/projects/peridynamics-simulation-scb/</link>
+      <link>/projects/01-peridynamics-simulation-scb-mechanics/</link>
       <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>/projects/peridynamics-simulation-scb/</guid>
+      <guid>/projects/01-peridynamics-simulation-scb-mechanics/</guid>
       <description>&lt;h2 id=&#34;highlights&#34;&gt;Highlights&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;Peridynamics model was applied to simulate SCB testing for asphalt mixtures.&lt;/li&gt;
@@ -80,19 +91,10 @@
     
     <item>
       <title>Peridynamics-based simulation of asphalt mixture cracking in semi-circular bending (SCB) test</title>
-      <link>/projects/peridynamics-simulation-scb-copy-copy/</link>
+      <link>/projects/02-odot-2309-friction-safety/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/projects/peridynamics-simulation-scb-copy-copy/</guid>
-      <description>&lt;p&gt;In this project, peridynamics, a new fracture mechanics methodology that extends classical continuum mechanics to discontinuous material responses, is implemented to simulate crack propagation during the SCB testing process.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Peridynamics-based simulation of asphalt mixture cracking in semi-circular bending (SCB) test</title>
-      <link>/projects/peridynamics-simulation-scb-copy/</link>
-      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/peridynamics-simulation-scb-copy/</guid>
+      <guid>/projects/02-odot-2309-friction-safety/</guid>
       <description>&lt;p&gt;In this project, peridynamics, a new fracture mechanics methodology that extends classical continuum mechanics to discontinuous material responses, is implemented to simulate crack propagation during the SCB testing process.&lt;/p&gt;</description>
     </item>
     

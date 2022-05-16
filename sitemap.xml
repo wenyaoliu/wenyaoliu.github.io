@@ -12,7 +12,37 @@
     <lastmod>2022-05-15T11:08:00-05:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2022-05-13T13:11:22+08:00</lastmod>
+    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/projects/</loc>
+    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/series/</loc>
+    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/similarity/</loc>
+    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/projects/03-odot-similarity-checking/</loc>
+    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/statistics/</loc>
+    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/statistics/</loc>
+    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/series/transportation/</loc>
+    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/wenyao-liu/</loc>
+    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publications/01-journal-papers/</loc>
     <lastmod>2022-05-13T13:11:22+08:00</lastmod>
@@ -20,16 +50,10 @@
     <loc>/publications/</loc>
     <lastmod>2022-05-13T13:11:22+08:00</lastmod>
   </url><url>
-    <loc>/authors/wenyao-liu/</loc>
-    <lastmod>2022-05-13T13:11:22+08:00</lastmod>
-  </url><url>
     <loc>/publications/02-project-and-reports/</loc>
     <lastmod>2022-04-13T13:11:22+08:00</lastmod>
   </url><url>
     <loc>/tags/asphalt-mixture/</loc>
-    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/cracking/</loc>
@@ -50,22 +74,13 @@
     <loc>/docs/peridynamics-simulation-scb/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/projects/peridynamics-simulation-scb/</loc>
-    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/projects/</loc>
+    <loc>/projects/01-peridynamics-simulation-scb-mechanics/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/scb-test/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/series/</loc>
-    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/series/simulation/</loc>
-    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publications/03-patents/</loc>
@@ -125,10 +140,7 @@
     <loc>/tags/image/</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/projects/peridynamics-simulation-scb-copy-copy/</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/projects/peridynamics-simulation-scb-copy/</loc>
+    <loc>/projects/02-odot-2309-friction-safety/</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/themes/</loc>

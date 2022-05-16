@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>similarity on Wenyao Liu</title>
+    <link>/tags/similarity/</link>
+    <description>Recent content in similarity on Wenyao Liu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2022 &lt;a href=&#34;https://www.wenyaoliu.com&#34;&gt;Wenyao Liu&lt;/a&gt; 
+</copyright>
+    <lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/similarity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Similarity Checking on four speed measurment systems</title>
+      <link>/projects/03-odot-similarity-checking/</link>
+      <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/03-odot-similarity-checking/</guid>
+      <description>**Note: The project is undergoing and some details cannot be provided.** Introduction To improve decision making, it is vital to monotor the speed on pavement network. Four speed measurment systems are available in Oklahoma and their compabilty is unknown.
+Featured results 1. Viualize the site/segment in different systems Fig. 1 Speed measurement location comparisons.
+2. Compare the similarity between 4 systems site by site Fig. 2 Similarity factors between 4 systems site by site (-1 to 1, with 1 as the best).</description>
+    </item>
+    
+  </channel>
+</rss>
