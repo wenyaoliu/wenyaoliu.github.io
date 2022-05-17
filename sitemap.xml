@@ -1,84 +1,147 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/projects/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/series/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/similarity/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/projects/03-odot-similarity-checking/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/statistics/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/statistics/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/series/transportation/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/wenyao-liu/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publications/01-journal-papers/</loc>
-    <lastmod>2022-05-13T13:11:22+08:00</lastmod>
-  </url><url>
-    <loc>/publications/</loc>
-    <lastmod>2022-05-13T13:11:22+08:00</lastmod>
-  </url><url>
-    <loc>/publications/02-project-and-reports/</loc>
-    <lastmod>2022-04-13T13:11:22+08:00</lastmod>
-  </url><url>
-    <loc>/publications/04-posters/</loc>
-    <lastmod>2021-10-04T13:11:22+08:00</lastmod>
-  </url><url>
-    <loc>/tags/asphalt-mixture/</loc>
-    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/cracking/</loc>
-    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/fracture-energy/</loc>
-    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/mechanics/</loc>
-    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/peridynamics/</loc>
-    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/projects/01-peridynamics-simulation-scb-mechanics/</loc>
-    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/scb-test/</loc>
-    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/series/simulation/</loc>
-    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publications/03-patents/</loc>
-    <lastmod>2021-04-03T13:11:22+08:00</lastmod>
-  </url><url>
-    <loc>/docs/</loc>
-  </url><url>
-    <loc>/posts/</loc>
-  </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.wenyaoliu.com/</loc>
+  <lastmod>2022-05-17T02:06:27+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.wenyaoliu.com/pdf/WenyaoLiu_CV.pdf</loc>
+  <lastmod>2022-05-17T02:06:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.wenyaoliu.com/projects/</loc>
+  <lastmod>2022-05-17T02:06:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.wenyaoliu.com/publications/journal-papers/</loc>
+  <lastmod>2022-05-17T02:06:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.wenyaoliu.com/publications/patents/</loc>
+  <lastmod>2022-05-17T02:06:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.wenyaoliu.com/projects/03-odot-similarity-checking/</loc>
+  <lastmod>2022-05-17T02:06:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.wenyaoliu.com/categories/statistics/</loc>
+  <lastmod>2022-05-17T02:06:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.wenyaoliu.com/series/transportation/</loc>
+  <lastmod>2022-05-17T02:06:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.wenyaoliu.com/projects/01-peridynamics-simulation-scb-mechanics/</loc>
+  <lastmod>2022-05-17T02:06:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.wenyaoliu.com/categories/mechanics/</loc>
+  <lastmod>2022-05-17T02:06:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.wenyaoliu.com/series/simulation/</loc>
+  <lastmod>2022-05-17T02:06:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.wenyaoliu.com/publications/</loc>
+  <lastmod>2022-05-17T02:06:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.wenyaoliu.com/publications/01-journal-papers/</loc>
+  <lastmod>2022-05-17T02:06:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.wenyaoliu.com/publications/02-project-and-reports/</loc>
+  <lastmod>2022-05-17T02:06:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.wenyaoliu.com/publications/04-posters/</loc>
+  <lastmod>2022-05-17T02:06:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.wenyaoliu.com/publications/03-patents/</loc>
+  <lastmod>2022-05-17T02:06:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.wenyaoliu.com/posts/</loc>
+  <lastmod>2022-05-17T02:06:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wenyaoliu.com/authors/wenyao-liu/</loc>
+  <lastmod>2022-05-17T02:06:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wenyaoliu.com/publications/journal-papers-copy/</loc>
+  <lastmod>2022-05-17T02:06:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wenyaoliu.com/tags/similarity/</loc>
+  <lastmod>2022-05-17T02:06:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wenyaoliu.com/tags/statistics/</loc>
+  <lastmod>2022-05-17T02:06:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wenyaoliu.com/tags/peridynamics/</loc>
+  <lastmod>2022-05-17T02:06:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wenyaoliu.com/tags/scb-test/</loc>
+  <lastmod>2022-05-17T02:06:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wenyaoliu.com/tags/asphalt-mixture/</loc>
+  <lastmod>2022-05-17T02:06:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wenyaoliu.com/tags/cracking/</loc>
+  <lastmod>2022-05-17T02:06:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wenyaoliu.com/tags/fracture-energy/</loc>
+  <lastmod>2022-05-17T02:06:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wenyaoliu.com/publications/page/2/</loc>
+  <lastmod>2022-05-17T02:06:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 </urlset>
