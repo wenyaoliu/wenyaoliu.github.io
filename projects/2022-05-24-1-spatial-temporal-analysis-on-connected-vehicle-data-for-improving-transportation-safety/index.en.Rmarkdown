@@ -6,10 +6,11 @@ description: This project utilizes multiple methods to compare the results of 4 
 toc: true
 slug: []
 categories:
-  - Statistics
+  - Deep Learning
 tags:
-  - statistics
+  - spatial analysis
   - big data
+  - connected vehicle
   - safety
   - transportation
 series:

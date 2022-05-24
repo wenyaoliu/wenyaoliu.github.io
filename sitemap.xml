@@ -11,6 +11,12 @@
     <loc>/categories/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/connected-vehicle/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/deep-learning/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/projects/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
   </url><url>
@@ -20,10 +26,7 @@
     <loc>/series/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/statistics/</loc>
-    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/statistics/</loc>
+    <loc>/tags/spatial-analysis/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
@@ -45,6 +48,12 @@
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/similarity/</loc>
+    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/statistics/</loc>
+    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/statistics/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/wenyao-liu/</loc>

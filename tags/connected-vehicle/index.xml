@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>connected vehicle on Wenyao Liu</title>
+    <link>/tags/connected-vehicle/</link>
+    <description>Recent content in connected vehicle on Wenyao Liu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2022 &lt;a href=&#34;https://www.wenyaoliu.com&#34;&gt;Wenyao Liu&lt;/a&gt; 
+</copyright>
+    <lastBuildDate>Mon, 23 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/connected-vehicle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1. Spatial-temporal Analysis on Connected Vehicle Data for Improving Transportation Safety</title>
+      <link>/projects/2022-05-24-1-spatial-temporal-analysis-on-connected-vehicle-data-for-improving-transportation-safety/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/2022-05-24-1-spatial-temporal-analysis-on-connected-vehicle-data-for-improving-transportation-safety/</guid>
+      <description>**Note: The project is undergoing and some details cannot be provided.**Introduction This undergoing project aims to reveal traffic patterns in sensor data from thousands of connected vehicles in Oklahoma and investigate their correlation with roadway crashes.
+Methods  Using Apache Spark for processing and filtering the big data sets (489 GB in total). Visualized vehicle data with ArcGIS and identified traffic and crash data hot spots. Building CNN-based deep learning models and Bayesian hierarchy models (BHM) for predicting roadway crashes based on corresponding vehicular data.</description>
+    </item>
+    
+  </channel>
+</rss>
