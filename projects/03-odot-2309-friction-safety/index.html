@@ -1,0 +1,578 @@
+<!DOCTYPE html>
+<html
+  lang="en"
+  dir="ltr"
+  
+><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<title>3. Utilizing Pavement Friction Data for the Reduction of Traffic Crashes | Wenyao Liu</title>
+
+<meta name="generator" content="Hugo Eureka 0.9.1" />
+<link rel="stylesheet" href="/css/eureka.min.9cec6350e37e534b0338fa9a085bf06855de3b0f2dcf857e792e5e97b07ea905d4d5513db554cbc26a9c3da622bae92d.css">
+<script defer src="/js/eureka.min.f1639ee98d6cbd85b2b5f034d27320da962002ff83159ed4e01dbc5948c42a1ab26c2d6e74c66e93f5cec4d24dbd166d.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload"
+  href="https://fonts.googleapis.com/css2?family=Lora:wght@400;600;700&amp;family=Noto&#43;Serif&#43;SC:wght@400;600;700&amp;display=swap"
+  as="style" onload="this.onload=null;this.rel='stylesheet'">
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.4.0/build/styles/base16/solarized-light.min.css"
+   media="print"
+  onload="this.media='all';this.onload=null" crossorigin>
+<script defer src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.4.0/build/highlight.min.js"
+   crossorigin></script>
+  <script defer src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.4.0/build/languages/dart.min.js"
+     crossorigin></script>
+<link rel="stylesheet" href="/css/highlightjs.min.2958991528e43eb6fc9b8c4f2b8e052f79c4010718e1d1e888a777620e9ee63021c2c57ec7417a3108019bb8c41943e6.css" media="print" onload="this.media='all';this.onload=null">
+
+
+<script defer type="text/javascript" src="/js/fontawesome.min.43764d8386d9fa6da89a7bc73548043c64e16a8148069783f6717c85abdc81fb4eef509bc3d068c51b43aa78620ce0ae.js"></script>
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.css"
+   integrity="sha384-MlJdn/WNKDGXveldHDdyRP1R4CTHr3FeuDNfhsLPYrq2t0UBkUdK2jyTnXPEK1NQ"  media="print"
+  onload="this.media='all';this.onload=null" crossorigin>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.js" 
+  integrity="sha384-VQ8d8WVFw0yHhCk5E8I86oOhv48xLpnDZx5T9GogA/Y84DcCKWXDmSDfn13bzFZY"  crossorigin></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/contrib/auto-render.min.js"
+   integrity="sha384-&#43;XBljXPPiv&#43;OzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR"  crossorigin></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    renderMathInElement(document.body, {
+      delimiters: [
+        { left: "$$", right: "$$", display: true },
+        { left: "$", right: "$", display: false },
+        { left: "\\(", right: "\\)", display: false },
+        { left: "\\[", right: "\\]", display: true }
+      ],
+    });
+  });
+</script>
+
+
+<script defer src="https://cdn.jsdelivr.net/npm/mermaid@8.14.0/dist/mermaid.min.js" 
+  integrity="sha384-atOyb0FxAgN9LyAc6PEf9BjgwLISyansgdH8/VXQH8p2o5vfrRgmGIJ2Sg22L0A0"  crossorigin></script>
+<link rel="preconnect" href="https://www.google-analytics.com" crossorigin>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WWQBPDS8S4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  gtag('js', new Date());
+  gtag('config', 'G-WWQBPDS8S4');
+</script>
+
+
+<link rel="icon" type="image/png" sizes="32x32" href="/images/icon_hu320c6fdebe240fc297c91c9a01fb013b_296553_32x32_fill_box_center_3.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/icon_hu320c6fdebe240fc297c91c9a01fb013b_296553_180x180_fill_box_center_3.png">
+
+<meta name="description"
+  content="Sponsored by the Oklahoma Department of Transportation (ODOT), this study identifies the contributing factors to traffic crashes and provides decision-making models.">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+      "@type": "ListItem",
+      "position": 1 ,
+      "name":"Projects",
+      "item":"/projects/"},{
+      "@type": "ListItem",
+      "position": 2 ,
+      "name":"3. Utilizing Pavement Friction Data for the Reduction of Traffic Crashes",
+      "item":"/projects/03-odot-2309-friction-safety/"}]
+}
+</script>
+
+
+
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "/projects/03-odot-2309-friction-safety/"
+    },
+    "headline": "3. Utilizing Pavement Friction Data for the Reduction of Traffic Crashes | Wenyao Liu","datePublished": "2021-11-26T00:00:00+00:00",
+    "dateModified": "2021-11-26T00:00:00+00:00",
+    "wordCount":  188 ,
+    "author": {
+        "@type": "Person",
+        "name": ["Wenyao Liu"]
+    },
+    "publisher": {
+        "@type": "Person",
+        "name": "Wenyao Liu",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "/images/icon2.png"
+        }
+        },
+    "description": "Sponsored by the Oklahoma Department of Transportation (ODOT), this study identifies the contributing factors to traffic crashes and provides decision-making models."
+}
+</script><meta property="og:title" content="3. Utilizing Pavement Friction Data for the Reduction of Traffic Crashes | Wenyao Liu" />
+<meta property="og:type" content="article" />
+
+
+<meta property="og:image" content="/images/icon.png">
+
+
+<meta property="og:url" content="/projects/03-odot-2309-friction-safety/" />
+
+
+
+<meta property="og:description" content="Sponsored by the Oklahoma Department of Transportation (ODOT), this study identifies the contributing factors to traffic crashes and provides decision-making models." />
+
+
+
+<meta property="og:locale" content="en" />
+
+
+
+
+<meta property="og:site_name" content="Wenyao Liu" />
+
+
+
+
+
+
+<meta property="article:published_time" content="2021-11-26T00:00:00&#43;00:00" />
+
+
+<meta property="article:modified_time" content="2021-11-26T00:00:00&#43;00:00" />
+
+
+
+<meta property="article:section" content="projects" />
+
+
+<meta property="article:tag" content="statistics" />
+
+<meta property="article:tag" content="R" />
+
+<meta property="article:tag" content="Regression" />
+
+<meta property="article:tag" content="cracking" />
+
+<meta property="article:tag" content="fracture energy" />
+
+
+
+
+
+
+
+
+
+<meta property="og:see_also" content="/projects/2022-05-24-1-spatial-temporal-analysis-on-connected-vehicle-data-for-improving-transportation-safety/" />
+
+
+
+<meta property="og:see_also" content="/projects/02-odot-similarity-checking/" />
+
+
+
+
+
+
+
+
+  <body class="flex min-h-screen flex-col">
+    <header
+      class="min-h-16 pl-scrollbar bg-secondary-bg fixed z-50 flex w-full items-center shadow-sm"
+    >
+      <div class="mx-auto w-full max-w-screen-xl"><script>
+    let storageColorScheme = localStorage.getItem("lightDarkMode")
+    if ((storageColorScheme == 'Auto' && window.matchMedia("(prefers-color-scheme: dark)").matches) || storageColorScheme == "Dark") {
+        document.getElementsByTagName('html')[0].classList.add('dark')
+    }
+</script>
+<nav class="flex items-center justify-between flex-wrap px-4 py-4 md:py-0">
+    <a href="/" class="me-6 text-primary-text text-xl font-bold">Wenyao Liu</a>
+    <button id="navbar-btn" class="md:hidden flex items-center px-3 py-2" aria-label="Open Navbar">
+        <i class="fas fa-bars"></i>
+    </button>
+
+    <div id="target"
+        class="hidden block md:flex md:grow md:justify-between md:items-center w-full md:w-auto text-primary-text z-20">
+        <div class="md:flex md:h-16 text-sm md:grow pb-4 md:pb-0 border-b md:border-b-0">
+            <a href="/#home" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  me-4">Home</a>
+            <a href="/#projects" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  me-4">Projects</a>
+            <a href="/#publications" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  me-4">Publications</a>
+            <a href="/#experience" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  me-4">Experience</a>
+            <a href="/pdf/WenyaoLiu_CV.pdf" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  me-4">Download CV</a>
+        </div>
+
+        <div class="flex">
+            <div class="relative pt-4 md:pt-0">
+                <div class="cursor-pointer hover:text-eureka" id="lightDarkMode">
+                    <i class="fas fa-sun"></i>
+                </div>
+                <div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-30" id="is-open">
+                </div>
+                <div class="absolute flex flex-col start-0 md:start-auto end-auto md:end-0 hidden bg-secondary-bg w-48 rounded py-2 border border-tertiary-bg cursor-pointer z-40"
+                    id='lightDarkOptions'>
+                    <span class="px-4 py-1 hover:text-eureka" name="Light">Light</span>
+                    <span class="px-4 py-1 hover:text-eureka" name="Dark">Dark</span>
+                    <span class="px-4 py-1 hover:text-eureka" name="Auto">Auto</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-0" id="is-open-mobile">
+    </div>
+
+</nav>
+<script>
+    
+    let element = document.getElementById('lightDarkMode')
+    if (storageColorScheme == 'Auto') {
+        element.firstElementChild.classList.remove('fa-sun')
+        element.firstElementChild.setAttribute("data-icon", 'adjust')
+        element.firstElementChild.classList.add('fa-adjust')
+        document.addEventListener('DOMContentLoaded', () => {
+            window.matchMedia("(prefers-color-scheme: dark)").addEventListener('change', switchDarkMode)
+        })
+    } else if (storageColorScheme == "Dark") {
+        element.firstElementChild.classList.remove('fa-sun')
+        element.firstElementChild.setAttribute("data-icon", 'moon')
+        element.firstElementChild.classList.add('fa-moon')
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+        getcolorscheme();
+        switchBurger();
+    });
+</script>
+</div>
+    </header>
+    <main class="grow pt-16">
+        <div class="pl-scrollbar">
+          <div class="mx-auto w-full max-w-screen-xl lg:px-4 xl:px-8">
+  
+  
+  <div class="grid grid-cols-2 gap-4 lg:grid-cols-8 lg:pt-12">
+    <div
+      class=" bg-secondary-bg col-span-2 rounded px-6 py-8 lg:col-span-6"
+    >
+      <article class="prose">
+  <h1 class="mb-4">3. Utilizing Pavement Friction Data for the Reduction of Traffic Crashes</h1>
+
+  <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2021-11-26</span
+    >
+  </div>
+  <div class="me-6 my-2">
+    <i class="fas fa-clock me-1"></i>
+    <span>1 min read</span>
+  </div>
+
+  
+    <div class="me-6 my-2">
+      <i class="fas fa-folder me-1"></i>
+      
+        <a href="/categories/statistics/" class="hover:text-eureka"
+          >Statistics</a
+        >
+      
+    </div>
+  
+
+  
+    <div class="me-6 my-2">
+      <i class="fas fa-th-list me-1"></i>
+      
+        <a href="/series/transportation/" class="hover:text-eureka"
+          >Transportation</a
+        >
+      
+    </div>
+  
+</div>
+
+
+  
+  
+    
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe src="https://www.youtube.com/embed/0mjJ8sLloE8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" frameborder="0" allowfullscreen></iframe>
+</div>
+
+  
+
+  <p>Sponsored by the Oklahoma Department of Transportation (ODOT), this study identifies the contributing factors to traffic crashes and provides decision-making models.</p>
+<h2 id="major-works">Major Works</h2>
+<ul>
+<li>Used <strong>SQL</strong> and <strong>R</strong> to clean, unify and filter data from four state-maintained data sets.</li>
+<li>Analyzed with <strong>R</strong> on friction demands and influencing factors of crashes using <strong>various statistical models</strong>: negative binomial (NB), hurdle NB and zero-inflated NB regression. Model performances were evaluated with <strong>AIC</strong>, <strong>BIC</strong>, and <strong>residual plots</strong>.</li>
+<li>Developed VBA-based spreadsheet <strong>software</strong> integrating the proposed model and safety costs in <strong>life cycle cost analysis (LCCA)</strong>.</li>
+</ul>
+<p> </p>
+<h2 id="outcomes">Outcomes</h2>
+<p>Published 2 peer-reviewed papers, developed 1 software, and drafted the final report passing the requirements of Oklahoma DOT at one submission.</p>
+<ol>
+<li>
+<p>Li, J. Q.*, <strong>W. Liu</strong>, X. Yang, P. Lu, and K. C. P. Wang. 2022. “Statistical Safety Performance Models considering Pavement and Roadway Characteristics.” Journal of Advanced Transportation, 2022: e5871601. Hindawi. <a href="https://doi.org/10.1155/2022/5871601">https://doi.org/10.1155/2022/5871601</a>.</p>
+</li>
+<li>
+<p><strong>Liu, W.</strong>, J. Q. Li*, X. Yang, K. Wang, and W. Yu. 2022. “Integrating Skid Resistance and Safety Benefits into Life Cycle Cost Analysis for Pavement Surface Treatment Selection.” Journal of Transportation Engineering, Part B: Pavements, 148 (2): 04022015. American Society of Civil Engineers. <a href="https://doi.org/10/gpqm2m">https://doi.org/10/gpqm2m</a>.</p>
+</li>
+</ol>
+</article>
+
+
+      
+        <div class="my-4">
+    
+    <a href="/tags/statistics/" class="inline-block bg-tertiary-bg text-sm rounded px-3 py-1 my-1 me-2 hover:text-eureka">#statistics</a>
+    
+    <a href="/tags/r/" class="inline-block bg-tertiary-bg text-sm rounded px-3 py-1 my-1 me-2 hover:text-eureka">#R</a>
+    
+    <a href="/tags/regression/" class="inline-block bg-tertiary-bg text-sm rounded px-3 py-1 my-1 me-2 hover:text-eureka">#Regression</a>
+    
+    <a href="/tags/cracking/" class="inline-block bg-tertiary-bg text-sm rounded px-3 py-1 my-1 me-2 hover:text-eureka">#cracking</a>
+    
+    <a href="/tags/fracture-energy/" class="inline-block bg-tertiary-bg text-sm rounded px-3 py-1 my-1 me-2 hover:text-eureka">#fracture energy</a>
+    
+</div>
+      
+
+      
+
+
+
+      
+        <div class="py-2">
+  
+    <div class="my-8 flex flex-col items-center md:flex-row">
+      <a href="/authors/wenyao-liu/" class="md:me-4 text-primary-text h-24 w-24">
+        
+        
+          <img
+            src="/images/icon2.png"
+            class="bg-primary-bg w-full rounded-full"
+            alt="Avatar"
+          />
+        
+      </a>
+      <div class="mt-4 w-full md:mt-0 md:w-auto">
+        <a
+          href="/authors/wenyao-liu/"
+          class="mb-2 block border-b pb-1 text-lg font-bold"
+        >
+          <h3>Wenyao Liu</h3>
+        </a>
+        <span class="block pb-2">&lt;b&gt;View the future and get prepared.&lt;/b&gt;</span>
+        
+          
+          
+          
+          
+          <a href="mailto:wenyao.liu@okstate.edu" class="me-2">
+            <i class="fas fa-envelope"></i>
+          </a>
+        
+          
+          
+          
+          
+          <a href="https://www.linkedin.com/in/wenyaoliu" class="me-2">
+            <i class="fab fa-linkedin"></i>
+          </a>
+        
+          
+          
+          
+          
+          <a href="https://github.com/wenyaoliu" class="me-2">
+            <i class="fab fa-github"></i>
+          </a>
+        
+          
+          
+          
+          
+          <a href="https://scholar.google.com/citations?user=Xg1iICcAAAAJ&amp;hl=en&amp;oi=ao" class="me-2">
+            <i class="fas fa-user-graduate"></i>
+          </a>
+        
+          
+          
+          
+          
+          <a href="pdf/WenyaoLiu_CV.pdf" class="me-2">
+            <i class="fas fa-download"></i>
+          </a>
+        
+          
+          
+          
+          
+          <a href="index.xml" class="me-2">
+            <i class="fas fa-rss"></i>
+          </a>
+        
+      </div>
+    </div>
+  
+</div>
+
+      
+
+      
+  <div
+    class="-mx-2 mt-4 flex flex-col border-t px-2 pt-4 md:flex-row md:justify-between"
+  >
+    <div>
+      
+        <span class="text-primary-text block font-bold"
+          >Previous</span
+        >
+        <a href="/projects/02-odot-similarity-checking/" class="block">2. Similarity Checking on Four Speed Measurment Systems in Oklahoma</a>
+      
+    </div>
+    <div class="mt-4 md:mt-0 md:text-right">
+      
+        <span class="text-primary-text block font-bold">Next</span>
+        <a href="/projects/04-peridynamics-simulation-scb-mechanics/" class="block">4. Peridynamics-based Simulation of Asphalt Mixture Cracking in Semi-circular Bending (SCB) Test</a>
+      
+    </div>
+  </div>
+
+
+      
+
+
+
+  
+<div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "wenyaoliu" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+    </div>
+    
+      <div class="col-span-2">
+        
+          
+<div class="bg-secondary-bg prose max-w-none rounded p-6">
+  <h3>Series of Posts</h3>
+  
+    
+      <a href="/projects/2022-05-24-1-spatial-temporal-analysis-on-connected-vehicle-data-for-improving-transportation-safety/" class="no-underline">1. Spatial-temporal Analysis on Connected Vehicle Data for Improving Transportation Safety</a>
+      <br />
+    
+      <a href="/projects/02-odot-similarity-checking/" class="no-underline">2. Similarity Checking on Four Speed Measurment Systems in Oklahoma</a>
+      <br />
+    
+      <a href="/projects/03-odot-2309-friction-safety/" class="no-underline">3. Utilizing Pavement Friction Data for the Reduction of Traffic Crashes</a>
+      <br />
+    
+  
+</div>
+
+        
+        
+          <div
+  class="
+    bg-primary-bg
+   prose sticky top-16 z-10 hidden px-6 py-4 lg:block"
+>
+  <h3>On This Page</h3>
+</div>
+<div
+  class="sticky-toc  hidden px-6 pb-6 lg:block"
+>
+  <nav id="TableOfContents">
+  <ul>
+    <li><a href="#major-works">Major Works</a></li>
+    <li><a href="#outcomes">Outcomes</a></li>
+  </ul>
+</nav>
+</div>
+<script>
+  window.addEventListener("DOMContentLoaded", () => {
+    enableStickyToc();
+  });
+</script>
+
+        
+      </div>
+    
+
+    
+    
+      <div
+        class=" bg-secondary-bg prose col-span-2 rounded p-6 lg:col-span-6"
+      >
+        <h3>See Also</h3>
+        
+          <a href="/projects/04-peridynamics-simulation-scb-mechanics/" class="no-underline">4. Peridynamics-based Simulation of Asphalt Mixture Cracking in Semi-circular Bending (SCB) Test</a>
+          <br />
+        
+      </div>
+    
+  </div>
+
+  
+    <script>
+      document.addEventListener("DOMContentLoaded", () => {
+        hljs.highlightAll();
+      });
+    </script>
+
+          </div>
+        </div>
+      
+    </main>
+    <footer class="pl-scrollbar">
+      <div class="mx-auto w-full max-w-screen-xl"><div class="text-center p-6 pin-b">
+    <p class="text-sm text-tertiary-text">&copy; 2022 <a href="https://www.wenyaoliu.com">Wenyao Liu</a> 
+
+        &middot;  Powered by <a href="https://picsum.photos/" class="hover:text-eureka">Picsum</a>  & <a href="https://github.com/wangchucheng/hugo-eureka"
+            class="hover:text-eureka">Eureka</a> for <a href="https://gohugo.io" class="hover:text-eureka">Hugo</a> </p>
+</div></div>
+    </footer>
+  </body>
+</html>

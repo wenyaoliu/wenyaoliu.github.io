@@ -2,37 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/projects/2022-05-24-1-spatial-temporal-analysis-on-connected-vehicle-data-for-improving-transportation-safety/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/big-data/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/projects/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/safety/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/series/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/statistics/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/statistics/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/series/transportation/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/transportation/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/projects/02-odot-similarity-checking/</loc>
+    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/projects/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/series/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/similarity/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/projects/03-odot-similarity-checking/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/statistics/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/statistics/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/series/transportation/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/wenyao-liu/</loc>
@@ -47,25 +59,34 @@
     <loc>/publications/02-project-and-reports/</loc>
     <lastmod>2022-04-13T13:11:22+08:00</lastmod>
   </url><url>
+    <loc>/projects/03-odot-2309-friction-safety/</loc>
+    <lastmod>2021-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/cracking/</loc>
+    <lastmod>2021-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/fracture-energy/</loc>
+    <lastmod>2021-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/r/</loc>
+    <lastmod>2021-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/regression/</loc>
+    <lastmod>2021-11-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publications/04-posters/</loc>
     <lastmod>2021-10-04T13:11:22+08:00</lastmod>
   </url><url>
+    <loc>/projects/04-peridynamics-simulation-scb-mechanics/</loc>
+    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/asphalt-mixture/</loc>
-    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/cracking/</loc>
-    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/fracture-energy/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/mechanics/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/peridynamics/</loc>
-    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/projects/01-peridynamics-simulation-scb-mechanics/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/scb-test/</loc>

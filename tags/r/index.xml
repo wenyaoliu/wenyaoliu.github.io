@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on Wenyao Liu</title>
+    <link>/tags/r/</link>
+    <description>Recent content in R on Wenyao Liu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2022 &lt;a href=&#34;https://www.wenyaoliu.com&#34;&gt;Wenyao Liu&lt;/a&gt; 
+</copyright>
+    <lastBuildDate>Fri, 26 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3. Utilizing Pavement Friction Data for the Reduction of Traffic Crashes</title>
+      <link>/projects/03-odot-2309-friction-safety/</link>
+      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/03-odot-2309-friction-safety/</guid>
+      <description>&lt;p&gt;Sponsored by the Oklahoma Department of Transportation (ODOT), this study identifies the contributing factors to traffic crashes and provides decision-making models.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

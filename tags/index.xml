@@ -8,7 +8,43 @@
     <language>en</language>
     <copyright>&amp;copy; 2022 &lt;a href=&#34;https://www.wenyaoliu.com&#34;&gt;Wenyao Liu&lt;/a&gt; 
 </copyright>
-    <lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>big data</title>
+      <link>/tags/big-data/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/big-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>safety</title>
+      <link>/tags/safety/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/safety/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>statistics</title>
+      <link>/tags/statistics/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transportation</title>
+      <link>/tags/transportation/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/transportation/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>similarity</title>
       <link>/tags/similarity/</link>
@@ -19,11 +55,38 @@
     </item>
     
     <item>
-      <title>statistics</title>
-      <link>/tags/statistics/</link>
-      <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
+      <title>cracking</title>
+      <link>/tags/cracking/</link>
+      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/statistics/</guid>
+      <guid>/tags/cracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fracture energy</title>
+      <link>/tags/fracture-energy/</link>
+      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/fracture-energy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regression</title>
+      <link>/tags/regression/</link>
+      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/regression/</guid>
       <description></description>
     </item>
     
@@ -33,24 +96,6 @@
       <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/asphalt-mixture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cracking</title>
-      <link>/tags/cracking/</link>
-      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/cracking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fracture energy</title>
-      <link>/tags/fracture-energy/</link>
-      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/fracture-energy/</guid>
       <description></description>
     </item>
     

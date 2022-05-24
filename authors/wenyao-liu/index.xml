@@ -10,12 +10,12 @@
 </copyright>
     <lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/authors/wenyao-liu/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Similarity checking on four speed measurment systems</title>
-      <link>/projects/03-odot-similarity-checking/</link>
+      <title>2. Similarity Checking on Four Speed Measurment Systems in Oklahoma</title>
+      <link>/projects/02-odot-similarity-checking/</link>
       <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>/projects/03-odot-similarity-checking/</guid>
-      <description>**Note: The project is undergoing and some details cannot be provided.**  Introduction To improve decision making, it is vital to monotor the speed on pavement network. Four speed measurment systems are available in Oklahoma and their compabilty is unknown.
+      <guid>/projects/02-odot-similarity-checking/</guid>
+      <description>**Note: The project is undergoing and some details cannot be provided.**  Introduction Accurately measure the traffic speed on pavement network it is vital to decision making in transportation system. Four speed measurment systems are available in Oklahoma and their compabilty is unknown.
 Featured results 1. Viualize the site/segment in different systems  Fig. 1 Speed measurement location comparisons
  2. Compare the similarity between 4 systems site by site  Fig. 2 Similarity factors between 4 systems site by site (-1 to 1, with 1 as the best)</description>
     </item>
@@ -26,7 +26,8 @@ Featured results 1. Viualize the site/segment in different systems  Fig. 1 Speed
       <pubDate>Fri, 13 May 2022 13:11:22 +0800</pubDate>
       
       <guid>/publications/01-journal-papers/</guid>
-      <description>As key contributor  Li, J. Q.*, W. Liu, X. Yang, P. Lu, and K. C. P. Wang. 2022. “Statistical Safety Performance Models considering Pavement and Roadway Characteristics.” Journal of Advanced Transportation, 2022: e5871601. Hindawi. https://doi.org/10.1155/2022/5871601. Liu, W., J. Q. Li*, X. Yang, K. Wang, and W. Yu. 2022. “Integrating Skid Resistance and Safety Benefits into Life Cycle Cost Analysis for Pavement Surface Treatment Selection.” Journal of Transportation Engineering, Part B: Pavements, 148 (2): 04022015. American Society of Civil Engineers.</description>
+      <description>&lt;p&gt;12 peer-reviewed journal papers have been published in total, where I served as key contributor in 6 SCI indexed papers and as paticipator in other 6 papers.&lt;/p&gt;
+&lt;p&gt;3 more papers were under review and 2 others in preparation.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -40,20 +41,30 @@ Featured results 1. Viualize the site/segment in different systems  Fig. 1 Speed
     </item>
     
     <item>
+      <title>3. Utilizing Pavement Friction Data for the Reduction of Traffic Crashes</title>
+      <link>/projects/03-odot-2309-friction-safety/</link>
+      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/03-odot-2309-friction-safety/</guid>
+      <description>&lt;p&gt;Sponsored by the Oklahoma Department of Transportation (ODOT), this study identifies the contributing factors to traffic crashes and provides decision-making models.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Posters and Presentations</title>
       <link>/publications/04-posters/</link>
       <pubDate>Mon, 04 Oct 2021 13:11:22 +0800</pubDate>
       
       <guid>/publications/04-posters/</guid>
-      <description>Wenyao Liu, Joshua Qiang Li, Hamed Gholizadeh (2021). “Utilization of UAV for Estimating Cut and Fill in Roadway Construction and Design.” The 2021 Oklahoma Transportation Symposium. July 27th, 2021. Oklahoma City, OK. (Poster Presentation) Wenyao Liu, Joshua Qiang Li, Xue Yang, Guangwei Yang, Kelvin Wang (2021). “Pavement Condition Assessment Utilizing Smartphone and Vehicle Sensor Data.” International Airfield &amp;amp; Highway Pavements Conference, American Society of Civil Engineers (ASCE). (Full Paper Under Preparation) Joshua Q. Li, Kelvin Wang, Stephen A.</description>
+      <description>10 posters and presentations in total, with one awarded best poster (2nd place) in 2020 Oklahoma Transportation Research Day (OTRD) Poster Competition.
+ Wenyao Liu, Joshua Qiang Li, Hamed Gholizadeh (2021). “Utilization of UAV for Estimating Cut and Fill in Roadway Construction and Design.” The 2021 Oklahoma Transportation Symposium. July 27th, 2021. Oklahoma City, OK. (Poster Presentation) Wenyao Liu, Joshua Qiang Li, Xue Yang, Guangwei Yang, Kelvin Wang (2021). “Pavement Condition Assessment Utilizing Smartphone and Vehicle Sensor Data.</description>
     </item>
     
     <item>
-      <title>Peridynamics-based simulation of asphalt mixture cracking in semi-circular bending (SCB) test</title>
-      <link>/projects/01-peridynamics-simulation-scb-mechanics/</link>
+      <title>4. Peridynamics-based Simulation of Asphalt Mixture Cracking in Semi-circular Bending (SCB) Test</title>
+      <link>/projects/04-peridynamics-simulation-scb-mechanics/</link>
       <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>/projects/01-peridynamics-simulation-scb-mechanics/</guid>
+      <guid>/projects/04-peridynamics-simulation-scb-mechanics/</guid>
       <description>&lt;h2 id=&#34;highlights&#34;&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;Peridynamics model was applied to simulate SCB testing for asphalt mixtures.&lt;/li&gt;
