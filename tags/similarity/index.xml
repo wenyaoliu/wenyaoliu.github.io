@@ -10,12 +10,12 @@
 </copyright>
     <lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/similarity/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2. Similarity Checking on Four Speed Measurment Systems in Oklahoma</title>
-      <link>/projects/02-odot-similarity-checking/</link>
+      <title>Similarity checking on four speed measurment systems</title>
+      <link>/projects/03-odot-similarity-checking/</link>
       <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>/projects/02-odot-similarity-checking/</guid>
-      <description>**Note: The project is undergoing and some details cannot be provided.**  Introduction Accurately measure the traffic speed on pavement network it is vital to decision making in transportation system. Four speed measurment systems are available in Oklahoma and their compabilty is unknown.
+      <guid>/projects/03-odot-similarity-checking/</guid>
+      <description>**Note: The project is undergoing and some details cannot be provided.**  Introduction To improve decision making, it is vital to monotor the speed on pavement network. Four speed measurment systems are available in Oklahoma and their compabilty is unknown.
 Featured results 1. Viualize the site/segment in different systems  Fig. 1 Speed measurement location comparisons
  2. Compare the similarity between 4 systems site by site  Fig. 2 Similarity factors between 4 systems site by site (-1 to 1, with 1 as the best)</description>
     </item>
